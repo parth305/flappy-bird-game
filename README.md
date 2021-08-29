@@ -1,2 +1,2 @@
 # flappy-bird-game
-Flappy bird game in pggame
+Flappy bird game in pygame
